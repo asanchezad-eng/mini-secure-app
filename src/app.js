@@ -227,3 +227,4 @@ if (require.main === module) {
     console.log(`App running on http://localhost:${PORT}`);
   });
 }
+// Cambio forzado para disparar el pipeline de verificación
